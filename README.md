@@ -16,7 +16,10 @@ To run the keylogger, follow these steps:
 3. Navigate to the directory containing the `Keylogger.py` file.
 4. Open a terminal or command prompt in that directory.
 5. Run the script using the following command:
-
+ ```
+ pip install pynput
+ python Keylogger.py
+```
 
 ## How it Works
 
