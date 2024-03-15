@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+static/* linguist-vendored
+docs/* linguist-documentation
+*.rb linguist-language=Python
+
+
 # C extensions
 *.so
 
